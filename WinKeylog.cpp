@@ -102,6 +102,6 @@ int main()
 		} 
 	}
 	closesocket(u_sock);
-	return 0; 
+	return 1; 
 }  
 
