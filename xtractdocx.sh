@@ -2,6 +2,7 @@
 # a small script for extracting the text and the media from a docx file
 # destroys layout (
 # tested on cygwin, ensure that unzip is installed
+# more: http://wp.me/p4fGy5-60
 # usage: $ ./xtractdocx.sh file.docx
 
 foldername=$1$(date +%s)
